@@ -1,0 +1,37 @@
+<resources>
+    <!-- General App -->
+    <string name="app_name">GlobalApp</string>
+
+    <!-- Login Activity -->
+    <string name="login_etEmail">etEmail</string>
+    <string name="login_etPassword">etPassword</string>
+    <string name="login_btnLogin">btnLogin</string>
+    <string name="login_tvRegister">tvRegister</string>
+    <string name="login_tvForgotPassword">tvForgotPassword</string>
+
+    <!-- Register Activity -->
+    <string name="register_etUsername">etUsername</string>
+    <string name="register_btnRegister">btnRegister</string>
+
+    <!-- Forgot Password Activity -->
+    <string name="forgotPassword_btnResetPassword">btnResetPassword</string>
+
+    <!-- Main Activity -->
+    <string name="main_toolbar">toolbar</string>
+    <string name="main_fragmentContainer">fragmentContainer</string>
+    <string name="main_bottomNavigationView">bottomNavigationView</string>
+
+    <!-- Bottom Navigation Menu -->
+    <string name="nav_feed">feed</string>
+    <string name="nav_post">post</string>
+    <string name="nav_friends">friends</string>
+    <string name="nav_messages">messages</string>
+    <string name="send">Send</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="write_your_post">Write your post</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="post">Post</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
